@@ -7,3 +7,5 @@ A 6507-based single-board computer with 128 bytes RAM, 7KiB ROM, I/O, graphics a
 `Programs` are programs written to test various features of the SBC.
 
 `Verilog` contains a basic Verilog implementation of the 6507, and the pixel LCD peripheral. Used during software development when ROM swapping became too tedious. Doesn’t implement undocumented instructions or decimal mode.
+
+For more information, see the writeup [on my website](https://tholin.dev/6507/).
